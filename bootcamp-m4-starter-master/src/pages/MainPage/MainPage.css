@@ -1,0 +1,25 @@
+.main-page__content {
+    padding: 42px calc(50% - 500px);
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-page__main-section {
+    position: relative;
+    right: 30px;
+    box-sizing: border-box;
+    width: 60%;
+}
+
+.main-page__slider {
+    display: flex;
+    justify-content: center;
+}
+
+.main-page__slider-text {
+    margin-top: 20px;
+    margin-left: 225px;
+    margin-bottom: 10px;
+    font-weight: 700;
+    font-size: 30px;
+}
